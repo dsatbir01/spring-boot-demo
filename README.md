@@ -1,2 +1,2 @@
-# sprint-boot-demo
+# spring-boot-demo
 Demo in sprint boot 
